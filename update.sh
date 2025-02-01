@@ -15,6 +15,7 @@ files=(
   "trusty-smc.ko"
   "trusty-test.ko"
   "trusty-virtio.ko"
+  "trusty-virtio-polling.ko"
 )
 
 # Change directory to the script patj
