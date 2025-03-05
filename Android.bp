@@ -36,6 +36,7 @@ prebuilt_kernel_modules {
         "trusty-ipc.ko",
         "trusty-populate.ko",
         "trusty-virtio-polling.ko",
+        "system_heap.ko",
     ],
     kernel_version: "6.12",
     no_full_install: true,
